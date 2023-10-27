@@ -1,4 +1,4 @@
-# ScreenZone Privacy Statement
+# MirrorDisplay Privacy Statement
 
 ## What information do we collect?
 We will NOT collect any personal information from you, including your in-App data or your shared information in the App.
@@ -12,7 +12,7 @@ By using this App, you consent to our privacy policy.
 ## Changes to our privacy policy
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the privacy policy modification data below.
 
-This policy was last modified on 10/16/2023
+This policy was last modified on 10/27/2023
  
 
  
